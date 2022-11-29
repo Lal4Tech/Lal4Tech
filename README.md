@@ -7,6 +7,7 @@
 #### My Skills 
 <p align="center">
   <a href="https://skillicons.dev">
+    Languages
     <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
     <img src="https://skillicons.dev/icons?i=tensorflow"/>
     <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
