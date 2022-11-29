@@ -13,6 +13,14 @@
     <img src="https://skillicons.dev/icons?i=git"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+    <img src="https://skillicons.dev/icons?i=git"/>
+  </a>
+</p>
 
 <!---
 Lal4Tech/Lal4Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
