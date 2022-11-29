@@ -5,13 +5,10 @@
 - 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/lal123/)
 
 #### My Skills 
+##### Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    Languages
     <img src="https://skillicons.dev/icons?i=html,css,js,py"/>
-    <img src="https://skillicons.dev/icons?i=tensorflow"/>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-    <img src="https://skillicons.dev/icons?i=git"/>
   </a>
 </p>
 <p align="center">
