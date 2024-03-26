@@ -5,7 +5,7 @@
 - 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/lal123/)
 
 #### Skills 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,mysql,postgres,cassandra,git,ansible,aws,terraform,databricks,docker,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,mysql,postgres,cassandra,git,ansible,aws,terraform,docker,github,gitlab)](https://skillicons.dev)
 
 <!---
 Lal4Tech/Lal4Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
